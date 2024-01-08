@@ -7,8 +7,10 @@ h1{
 }
 h2{
     text-align: center;
-    text-decoration: none;
     align-items: center;
+    text-decoration: none;
+    background-origin: padding-box;
+    color: black;
 }
 .hacked{
     text-align: center;
@@ -17,9 +19,9 @@ h2{
     align-content: center;
 }
 .ranso{
-    text-align: justify;
-    text-decoration: none;
-    color: brown;
-    text-wrap: none;
+    text-align: center;
     align-items: center;
+    text-decoration: none;
+    background-origin: padding-box;
+    color: rgb(105, 57, 40);
 }
