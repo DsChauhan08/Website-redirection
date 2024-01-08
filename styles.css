@@ -1,1 +1,25 @@
-
+h1{
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    background-origin: padding-box;
+    color: black;
+}
+h2{
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+}
+.hacked{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    align-content: center;
+}
+.ranso{
+    text-align: justify;
+    text-decoration: none;
+    color: brown;
+    text-wrap: none;
+    align-items: center;
+}

@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Motivation</title>
+</head>
+<body>
+    <h1>Is this what you want to do!</h1>
+    <h3>Is this what your life is made for?</h3>
 
+    <p class="hacked"> actully, you've been hacked????</p>
+    <p class="ranso">You have to pay me ransom now. Send $10 on ______________________________ </p>
+    
+    <script>
+    
+        window.addEventListener('beforeunload', function (e) {
+        var confirmationMessage = 'Are you sure you want to leave?';
+        e.returnValue = confirmationMessage;
+        return confirmationMessage;
+      });
+      </script>
+
+</body>
+</html>
