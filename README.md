@@ -46,8 +46,8 @@ Before we embark on this coding adventure, a friendly reminder: it's all in good
 
 1. Journey to your chosen DNS service settings (e.g., OpenDNS's lair).
 2. Hunt for domain redirection options. For YouTube and Instagram redirection, add these magical spells:
-   - Redirect `www.youtube.com` to "website.com"
-   - Redirect `www.instagram.com` to "website.com"
+   - Redirect `www.youtube.com` to "motivation-redirection.netlify.app"
+   - Redirect `www.instagram.com` to "motivation-redirection.netlify.app"
 
 ### Step 5: Save & Deploy 🤞
 
